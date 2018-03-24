@@ -17,10 +17,10 @@ social-linkedin: /gurnoor-singh-699a6397/ # add your Linkedin handle
 social-email: gurnoor30196@gmail.com # add your Email address
 
 # Disqus
-#discus-identifier: mr-brown # add your discus identifier
+discus-identifier: GURNOOR SINGH # add your discus identifier
 
 # Tracker
-analytics: # Google Analytics
+#analytics: # Google Analytics
 
 # Build Settings
 markdown: kramdown
