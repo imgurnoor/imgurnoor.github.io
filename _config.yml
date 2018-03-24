@@ -3,7 +3,6 @@ description: > # this means to ignore newlines until "baseurl:"
   AI & Deep Learning Enthusiast
 permalink: ':title/'
 baseurl: "/flexible-jekyll" # the subpath of your site, e.g. /blog
-resume: "singhgurnoor.com"
 url: "www.gurnoor.me" # the base hostname & protocol for your site, e.g. http://example.com
 site-twitter: noor30196 #if your site has a twitter account, enter it here
 
@@ -11,6 +10,7 @@ site-twitter: noor30196 #if your site has a twitter account, enter it here
 author: Gurnoor Singh # add your name
 author-img: profile.jpg # add your photo
 about-author: An autodidactic Ambivert # add description
+resume: "singhgurnoor.com"
 social-twitter: noor30196 # add your Twitter handle
 social-facebook: gurnoor.singh.7731 # add your Facebook handle
 social-facebook: 
