@@ -11,7 +11,7 @@ layout: default
       <div class="author-name">{{site.author}}</div>
       <p>{{site.about-author}}</p>
        <section><h3 class="contact-title">Resume</h3>
-         <a href="http://www.singhgurnoor.com">About Me</a></section>
+         <a class="contact" href="http://www.singhgurnoor.com">About Me</a></section>
     </div>
   </header> <!-- End Header -->
   <footer>
@@ -22,7 +22,7 @@ layout: default
           <li><a href="https://twitter.com/{{ site.social-twitter }}" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
         {% else %}
           <li><a href="https://twitter.com/artemsheludko_" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a></li>
-       {% if site.social-facebook %}
+       {% endif %}{% if site.social-facebook %}
           <li><a href="https://facebook.com/{{ site.social-facebook }}" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
         {% else %}
           <li><a href="https://facebook.com/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>
