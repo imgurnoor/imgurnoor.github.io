@@ -9,15 +9,15 @@ categories: [Automation, Raspberry pie, Uncategorized]
 <h2>Introduction</h2>
 <strong>Raspberry pi</strong> is as such most inspiring computer available today because most devices that we use today like phones , tablets are designed in such a way that that we cannot manipulate them , From manipulation i mean we cannot design it in such a way to get a specific desired output , But raspberry is exactly opposite.
 <p class="js_ad-mobile-dynamic js_ad-dynamic">It was invented in the UK as a device for promoting the teaching of computer science and coding, and its development is overseen by <a href="https://www.raspberrypi.org/about/" target="_blank" rel="noopener">The Raspberry Pi Foundation</a> charity. The first-generation Raspberry Pi appeared in 2012 and the latest Raspberry Pi 3.0 arrived in February this year. Eight million devices have been sold worldwide, the Pi Foundation says. (Source Google).</p>
-<img class="alignnone wp-image-81 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp1.jpg" alt="rasp1" width="2240" height="1831" />
+<!--<img class="alignnone wp-image-81 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp1.jpg" alt="rasp1" #width="2240" height="1831" /> -->
 
 It is credit-card sized computer which can be plugged into your TV and a keyboard , which can be used for many of the things that an  average computer does like watching movies , word processing, playing light games etc.
 <h2>Comparing Raspberry pi with PC</h2>
-<img class="alignnone wp-image-91 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp-2.png" alt="rasp 2" width="638" height="479" />
+<!--- <img class="alignnone wp-image-91 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp-2.png" alt="rasp 2" width="638" height="479" /> -- > 
 
 So if we compare both , In Raspberry pi we can only download open-source operating system and the Ram , Graphics and processor of Raspberry pi is comparatively low as compare to that of personal computer which works completely fine for doing basic operations other than playing high end games like GTA V.
 <h2>Basics of Raspberry pi</h2>
-<img class="alignnone wp-image-105 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp3.png" alt="rasp3" width="569" height="440" />
+<!-- <img class="alignnone wp-image-105 size-full" src="https://www.singhgurnoor.com/wp-content/uploads/2017/06/rasp3.png" alt="rasp3" width="569" height="440" /> -- > 
 
 We have HDMI port to connect raspberry pi it to monitor . We have a dedicated SD card slot for installing open-source operating system. Here we have  blue colored SD card in the picture, (in the latest version) integrated <strong>wifi</strong> and <strong>Bluetooth</strong>
 
