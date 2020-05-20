@@ -8,7 +8,7 @@ formally —  problems that we solve intuitively, that feel automatic for us, li
 
 A person’s everyday life requires an immense amount of knowledge about the world. Much of this knowledge is subjective and intuitive, and therefore diﬃcult to articulate in a formal way. Computers need to capture this same knowledge in order to behave in an intelligent way. **One of the key challenges in artiﬁcial intelligence is how to get this informal knowledge into a computer.**
  
-<h2 id="types- of -AI">Types of AI</h2>
+<h1 id="types- of -AI">Types of AI</h1>
  
 AI technologies are categorised by their capacity to mimic human characteristics, the technology they use to do this, their real-world applications, and the theory of mind, which we’ll discuss in more depth below.
 
