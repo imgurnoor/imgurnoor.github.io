@@ -1,3 +1,5 @@
+This blog is for anyone who is curious about AI and its basic types but has no idea what is is. I imagine there are a lot of people who tried reading the wikipedia article, got frustrated and gave up wishing someone would just give them a high-level explanation. That’s what this is.
+
 To play off of [Dan Ariely](https://www.facebook.com/dan.ariely/posts/904383595868), **Artificial Intelligence** is a lot like teenage sex. Everybody talks about it. Only some really know how to do it. Everyone thinks everyone else is doing it. So, everyone claims they’re doing it.
 
 Artiﬁcial intelligence is a booming ﬁeld with many real-world applications. Machines are very good in solving problems that are intellectually diﬃcult for human beings to solve - 
@@ -21,6 +23,8 @@ Using these characteristics for reference, all artificial intelligence systems -
 ## **Artificial narrow intelligence** (ANI)
 Artificial narrow intelligence (ANI), also referred to as weak AI or narrow AI, is the only type of artificial intelligence we have successfully realized to date. Narrow AI doesn't mimic or replicate human intelligence, it merely simulates human behaviour based on a narrow range of parameters and contexts. It is designed to perform singular tasks - i.e. facial recognition, speech recognition/voice assistants, driving a car, or searching the internet - and is very intelligent at completing the specific task it is programmed to do.
 For e.g. Speech and language recognition of the Siri virtual assistant on iPhones, vision recognition of self-driving cars, and recommendation engines that suggest products you make like based on your purchase history. These systems can only learn or be taught to complete specific tasks.
+
+In the next blog, I will discuss more about the sub fields of AI 
 
 ## **Artificial general intelligence** (AGI)
 Artificial general intelligence (AGI), also referred to as strong AI or deep AI, is the concept of a machine with general intelligence that mimics human intelligence and/or behaviours, with the ability to learn and apply its intelligence to **solve any problem**. AGI can think, understand, and act in a way that is indistinguishable from that of a human in any given situation. 
