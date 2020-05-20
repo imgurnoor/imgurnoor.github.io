@@ -4,5 +4,5 @@ Artiﬁcial intelligence is a booming ﬁeld with many real-world applications. 
 problems like any complex mathematical computation. The true challenge to AI instead is to be solve the tasks that are easy for Humans to perform but hard to describe
 formally — problems that we solve intuitively, that feel automatic for us, like recognizing spoken words or faces in images.
 
-![Ex-Machina](https://github.com/imgurnoor/imgurnoor.github.io/blob/master/assets/img/Capture-Exmachina.JPG "Ex-Machina")
+![Ex-Machina](Capture-Exmachina.JPG "Ex-Machina")
 
