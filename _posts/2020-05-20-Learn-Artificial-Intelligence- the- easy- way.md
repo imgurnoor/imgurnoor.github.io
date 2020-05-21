@@ -1,4 +1,4 @@
-This blog is for anyone who is curious about AI and its basic types but has no idea what is is. I imagine there are a lot of people who tried reading the wikipedia article, got frustrated and gave up wishing someone would just give them a high-level explanation. That’s what this is.
+This blog is for anyone who is curious about AI and its basic types but has no idea what it is. I imagine there are a lot of people who tried reading the wikipedia article, got frustrated and gave up wishing someone would just give them a high-level explanation. That’s what this is.
 
 To play off of [Dan Ariely](https://www.facebook.com/dan.ariely/posts/904383595868), **Artificial Intelligence** is a lot like teenage sex. Everybody talks about it. Only some really know how to do it. Everyone thinks everyone else is doing it. So, everyone claims they’re doing it.
 
